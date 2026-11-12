@@ -1,0 +1,1660 @@
+{
+  "format": 1,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 139,
+      "sha256": "2a0fc6de6bcedd2838db92fee5e8cb8a35076f04a0ecb013d615f91e8d9d01fd"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 71,
+      "sha256": "7a8ec00da667e04d1ceb8e0b3edb17ea287756129d37df0e57f018fe7771f692"
+    },
+    {
+      "path": "cadlift/references/knowledge-base.json",
+      "bytes": 1509,
+      "sha256": "87f860bc48bf149e66e43624c18106cc2e6109876abc8df10f1c91967f0c8e98"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-installation.md",
+      "bytes": 17519,
+      "sha256": "eea587c3d43718514e6f2e7b5e497ac63e66bac60794a997c0fa2f64640f3b83"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/AGENTS.md",
+      "bytes": 4913,
+      "sha256": "875327f755e9e82059574c5a5778087ca5370d093a051eded1db74dbdc18d9ad"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Документы для обучения/Инструкция по монтажу однослойной кровли из полимерной мембраны.pdf",
+      "bytes": 5564319,
+      "sha256": "85aa5b6109cb465fccdbd02c0d6b1d2e2bcc5c22fc9a501b910526ff9dd30049"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Документы для обучения/Руководство по проектированию и устройству кровель из полимерных мембран ТЕХНОНИКОЛЬ.pdf",
+      "bytes": 18980325,
+      "sha256": "cb3d9ae070dea0411dcc7fd609b04d06409e5ea26470c8e5ac2e9fcc02ffd1fa"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/База знаний по устройству примыканий ПВХ кровель.docx",
+      "bytes": 1217359,
+      "sha256": "d7f61a254bb79f119f2b3dcb28f93919f581dc32c6fcf8394af2a51fa3c63f8f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/База знаний по устройству примыканий ПВХ кровель.txt",
+      "bytes": 487796,
+      "sha256": "36b506d0b5d54f0fe774ee470c1ff7a184ce689d1468ea971cbfc6c811679b88"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/В01.txt",
+      "bytes": 18471,
+      "sha256": "952b7b6d6f7efdda969f81ba176bc226d66a9fd5a69ac933c47aac611774cfd6"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/В02.txt",
+      "bytes": 3970,
+      "sha256": "89c9e12aca39fb9dff329a6e26eb74b859a9f283c7cc39af6ace0c263d625a87"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/В03.txt",
+      "bytes": 13514,
+      "sha256": "a9c8cd4a776ae27871f853fd1360a7a0b176ec731ab1d04dffb9c9e3c73a29ca"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/В04.txt",
+      "bytes": 14106,
+      "sha256": "f126d04fa6eb5438f2c861564ea38aba0947a6d2af7c67892831d842517e2917"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/В05.txt",
+      "bytes": 5905,
+      "sha256": "d2113744e22b37176e001820e09cc48945a534b93eca348b8fde643121e09ca7"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/В06.txt",
+      "bytes": 5870,
+      "sha256": "989cfbfaa6dd4b3b3c24a91b585c5faf15d1aa65f2336cbdb9409f314d9f3b9d"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/Д01.txt",
+      "bytes": 9291,
+      "sha256": "9d69467fbe55a9a637d379b772f78e9ea1aba4917319e7fc8bfc133bb4c72ed9"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/Д02.txt",
+      "bytes": 13345,
+      "sha256": "956f2945c393bb57aa993e39e03f03f23df9384bbfeecb8b53a807301e07ea85"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/Д03.txt",
+      "bytes": 12828,
+      "sha256": "114effce7bfa96e093436f5aab4973afcfa8aa372fe54f4025a7d429fc65c23d"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/Д04.txt",
+      "bytes": 4752,
+      "sha256": "841087a31ca02ff8ab3b01eec9e8fd567d1f248a302c5594616257c25dec8e4a"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/Д05.txt",
+      "bytes": 3836,
+      "sha256": "2e5a4ce88ead845e39c88ef9532c6da59e2ce56b4ad09bb2fc07496e49d115f2"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/З01.txt",
+      "bytes": 8546,
+      "sha256": "37ad6edacc399430cb53ade24f4fef1557fa07bace8e93051cd79b18ff3e41a2"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/З02.txt",
+      "bytes": 3549,
+      "sha256": "7615c6542339f29bfa9aaf2a3254b27a32330e07782288d0f1abe6be4a5b32e1"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/З03.txt",
+      "bytes": 5075,
+      "sha256": "f504a15c6abf9344f3720c7c56f9c1b7189f369ceb29a4bb8fc67fc09f738119"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/З04.txt",
+      "bytes": 4776,
+      "sha256": "1c1fecc4d3d7e60de11c9911b4bff7c30f9a04f055b5ffaeea7ee240771f942e"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/К01.txt",
+      "bytes": 8827,
+      "sha256": "b621e0b41a07d1c62273683def25780e1e7e65bfa865e94524b560f7d2a91aed"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/К02.txt",
+      "bytes": 7747,
+      "sha256": "093119a6082561eeeab330de65afa7797334c3e91c15c2577046c4d3e8e93519"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/К03.txt",
+      "bytes": 8169,
+      "sha256": "48aa3660750f57e3426e5fefbf365cc06e2c242c7fcba00d9cf88db9ebb5703b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/О01.txt",
+      "bytes": 5485,
+      "sha256": "b8642e679a97da4d3bc79852f2f3a93b2853311953324bd02b0660e217585f78"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/О02.txt",
+      "bytes": 5992,
+      "sha256": "646c36664d93bc8bdfcdfaa06a273fbe6b902d620774f0f32785e3ac2b090905"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/О03.txt",
+      "bytes": 6016,
+      "sha256": "7ecf3551a50ec5ed2e8eccfe5055093d3d8800652fcaba8ec814bf9d32b99662"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/О04.txt",
+      "bytes": 6862,
+      "sha256": "6cad0903be9bd31673bb96cec0d87eedd424af1f1fe0e6e270c00daf6e7086cb"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/О05.txt",
+      "bytes": 4942,
+      "sha256": "847400112be60d26e700ff8af342a187c150ac93a9f25eaf43d79c9e37fd11bf"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/О06.txt",
+      "bytes": 4594,
+      "sha256": "c3aa787e1d0b8aebc391b33c2dc051929a7411e678bbea5956c40e8af710b231"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/П01.txt",
+      "bytes": 9840,
+      "sha256": "5c14a020018f2bf6d47148ecc89204b099028c8b1b956598b98fed4c37952ff3"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/П02.txt",
+      "bytes": 10374,
+      "sha256": "15bfc257481c0b4c08d24ebce233371b8851584ba416e0aed12c970bc4c0274d"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/П03.txt",
+      "bytes": 10116,
+      "sha256": "b1db1d9e695b34c6aa87687b92bb5f6c67f51c1969c3a5c490ef43b156bfd7fa"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/П04.txt",
+      "bytes": 10650,
+      "sha256": "71a5468c677241c77e7ee2ce6d41d4eda0458b06769c200f2eea0b0d458dafe8"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/П05.txt",
+      "bytes": 13398,
+      "sha256": "48a00a20a0162f3784aeb8208763ea670ded50659c53dfdf7a19a47ace425275"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/П06.txt",
+      "bytes": 9260,
+      "sha256": "179e545ce25f24f9d3c681cf2faebdb226ad4b35cf0c976dcedcdea1e0141016"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/П07.txt",
+      "bytes": 13522,
+      "sha256": "87d6a87543e5e495d57e75a06790daf75ee219e37ec178d87d0238c692ff7540"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/П08.txt",
+      "bytes": 9384,
+      "sha256": "ad479b341071351ba0f9ddddd252496d42d4bb4b809f5164831d0737fbe01559"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/П09.txt",
+      "bytes": 6479,
+      "sha256": "af828e2082c38c0ad374db0780949c193b1a06a173706baca213fbfe271d8d33"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/П10.txt",
+      "bytes": 5675,
+      "sha256": "a018ea2076de70256732e71479f0699fe50bf4edbefb604abc2f1b2368b29777"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/П11.txt",
+      "bytes": 8072,
+      "sha256": "53126eb9f71015786e70aacc43a5b1573e3e6c2e42d2ca6db569b0fa10dd15d1"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/С01.txt",
+      "bytes": 8890,
+      "sha256": "9389a7044f021bcc934f330720da730290f50ed76c787b5df742ca28803e25c4"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/С02.txt",
+      "bytes": 8283,
+      "sha256": "6c6adf1233f2fccba51cae0e0224c39b8dd760539483b0cb59a9e3cc450cd386"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/С03.txt",
+      "bytes": 3481,
+      "sha256": "4bfe0f1c44fdc90546b6cf9d1abe6983097a543b98c81e3d76c538cbe0065a3b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/Т01.txt",
+      "bytes": 7800,
+      "sha256": "7f494d69b0319a35d9702bfd6f1baf58ea273f998ea201590210f86e0def2bd9"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/Т02.txt",
+      "bytes": 7451,
+      "sha256": "0b84a5a18105103691af341bdc2c5752ab9b6452815f27740a693206b72a1af9"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/Т03.txt",
+      "bytes": 8447,
+      "sha256": "ad041afa5025f976316de8a7495941f155772d6a15790dc7e202b3642d9d708f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/Т04.txt",
+      "bytes": 6373,
+      "sha256": "8125402099cf59abf7a6eb7272fa520fc94b857720e5426b6adcc33f71c37219"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/Т05.txt",
+      "bytes": 5112,
+      "sha256": "6bb5fbda8c0bb08136b6586ad82413fbc9ae91d352a9bcf36fbf94cdee352fae"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/У01.txt",
+      "bytes": 5846,
+      "sha256": "56506a51c67a34c1d3a1810104fb01407e714611d74291a5babb87257bafe7dd"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/У02.txt",
+      "bytes": 6604,
+      "sha256": "b24f3e7df1292314d091d263d0e9fda0a3ec3fe1c4a52b4461d9a8c729517975"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/У03.txt",
+      "bytes": 5209,
+      "sha256": "1af37b332ab7d13e9ccbe9a2d261f3aec332a1b11a761233c637bca9373470a5"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/У04.txt",
+      "bytes": 8548,
+      "sha256": "159a6348d79481720744ea06d8d904482671315981d94a4022b1b56b23e553aa"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/У05.txt",
+      "bytes": 6514,
+      "sha256": "a3d0feeeb07c6613b8da7a1f456dc0a02a1fbc113e92bea1d378baf44e9548d0"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/У06.txt",
+      "bytes": 5680,
+      "sha256": "d989c92818cef116bdda22bf32e224d5cc71164ba12367f357070b5a42360f39"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/У07.txt",
+      "bytes": 8062,
+      "sha256": "25b6618f85948cb270ab2e7cfd8da69d3110a4d0fb6da38a218c522e34e2914d"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Карточки/У08.txt",
+      "bytes": 6458,
+      "sha256": "fea81677850f365c00486cabd94155738702727ab1fab522d18bf141d80a7911"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Общие положения и расхождения.txt",
+      "bytes": 22247,
+      "sha256": "0711e2addb725d837596ccaea235e3a29f0e63fefcddef424ec6af86bd2847d1"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Правила усиления углов.txt",
+      "bytes": 7242,
+      "sha256": "d0e4de0df02db9ae7c64a0d1b5f3ef83fb69753ba883f60c02b25de0134cd18e"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Указатель базы.txt",
+      "bytes": 9615,
+      "sha256": "5e8c20395b8662822280671b6d06ce37c19e60ab547573b393904066ca367525"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Атлас фотоэтапов.html",
+      "bytes": 119788,
+      "sha256": "6a97b6f64648eebe562df5ed0b257a2dfd3584595fd29387c93396b15841176f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF083_с081_вид01.png",
+      "bytes": 87329,
+      "sha256": "eaa53164b14bc524d28ef7118e550d63aae37651607421f761b6dc760ea906d8"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF083_с081_вид02.png",
+      "bytes": 103718,
+      "sha256": "e00cf39baf13bb66a8b300456972122584207e5cdc1cf4a1d8943adad9fb6652"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF083_с081_вид03.png",
+      "bytes": 29149,
+      "sha256": "1a2ca2f028958c8afd004bd769dee81f859bc5e02e564eee1e77206a72ceffd2"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF084_с082_вид01.png",
+      "bytes": 68595,
+      "sha256": "cfdbdd929c367bd3b27f6860486ada6dd04a93c9a179304e292d3c4d21a560ec"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF084_с082_вид02.png",
+      "bytes": 69102,
+      "sha256": "e203dfcfc9a333b55b1a9f1308e8d548cb55c3efcec0b1ba0e92952e807ffd0e"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF084_с082_вид03.png",
+      "bytes": 72212,
+      "sha256": "fde085d27e4b27f5b0235432d41997be48a95c14d0b78880497c0f7aa51325b0"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF084_с082_вид04.png",
+      "bytes": 106296,
+      "sha256": "45f2fae392eef09bb27b74e4b18b113462f82d688c814f89d2c3e9166db6841d"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF085_с083_вид01.png",
+      "bytes": 39625,
+      "sha256": "0979ab23fef40219b8cc4ac833c56c281cb763a0f336f849cf63b1a907545445"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF085_с083_вид02.png",
+      "bytes": 73764,
+      "sha256": "11e8165be64871ef43d07eab31495638c75ab086077753d04a77fc1cce485f57"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF085_с083_вид03.png",
+      "bytes": 55231,
+      "sha256": "a041ebfafe0158876737d63dc423022ac16f59ec29ab3d6fe8c629ee3a157c1b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF085_с083_вид04.png",
+      "bytes": 70116,
+      "sha256": "6818d7966746fa29e8a301b5e04664fc302e3816f2a7cc3c4d5c9df27e896f80"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF085_с083_вид05.png",
+      "bytes": 118122,
+      "sha256": "96b338918130254f5c2a2e37eb5df2d7977921a2be8cadbe7edd6dea60f2d1d1"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF086_с084_вид01.png",
+      "bytes": 52326,
+      "sha256": "0e832191e8016e80214886bb555501ba3dcd196100a640c5272958f4fab52ca1"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF086_с084_вид02.png",
+      "bytes": 89071,
+      "sha256": "f11d95b145aedbeaf5750584b1a4ca75ec4c20052c7364f0be5eeb5a9b0f38d8"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF086_с084_вид03.png",
+      "bytes": 81657,
+      "sha256": "d03709a562b6eb7d92cb770ffddd1b253bdde7b214a47de7c243c61ea2c66886"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF086_с084_вид04.png",
+      "bytes": 58004,
+      "sha256": "25839f97216c3b36598215318b7cc892193566b68b53ea69dbcc51707eb6a4d9"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF087_с085_вид01.png",
+      "bytes": 97963,
+      "sha256": "970c6695999996d81dec5a4578c4232715ecc6e297ea19f3b855bc08a75ef953"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF087_с085_вид02.png",
+      "bytes": 64985,
+      "sha256": "07e796b18879950414f383135abd919b3123e2806b3995ca6d372dc064bf8b6b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF087_с085_вид03.png",
+      "bytes": 67983,
+      "sha256": "28a5d8921f18785fe849105ac87f19011b0c353be96b34903c28e773908b4233"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF088_с086_вид01.png",
+      "bytes": 50934,
+      "sha256": "f4f3cd5539808fff6c2d64ba898e6a1191abcaaeded53859f0005bd5048f6abf"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF088_с086_вид02.png",
+      "bytes": 60166,
+      "sha256": "61c1f7935671075e916d91c146f1ef8bbe3ce709bf43a91f63741a958d040091"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF088_с086_вид03.png",
+      "bytes": 41996,
+      "sha256": "6158a3c6d6b09505112ce9cf146b46344003ff3e24336de272412189612c4476"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF088_с086_вид04.png",
+      "bytes": 53935,
+      "sha256": "4e96a606c6b5736954235cf7894ebbbe4b5cb5d692272215f0d5353447ab5c0e"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF088_с086_вид05.png",
+      "bytes": 45041,
+      "sha256": "944ff0c12c811139a237d1f1e8fbcdd3af21ef8d066cba6eb95f8951fafa9598"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF089_с087_вид01.png",
+      "bytes": 58371,
+      "sha256": "8918092a193b4f602dad2fe848406d14e354966b93425423230e195226e150cc"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF089_с087_вид02.png",
+      "bytes": 43480,
+      "sha256": "6e0894f25f6ebf6fe31b26d509490ac6d67af69ff2c924b9a92493c2983c6c6f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF089_с087_вид03.png",
+      "bytes": 52912,
+      "sha256": "e6ddf6b842d22955299f55ef05476071e776607a23c67b6cc05a441fe792d6ac"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF089_с087_вид04.png",
+      "bytes": 39062,
+      "sha256": "55e1c1dba7b8cd7998add6af4c334f41f54c5cdfb391935da8dffd6d70c18707"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF089_с087_вид05.png",
+      "bytes": 59978,
+      "sha256": "7d878134897d274cbcd2fb46228193cc1bc3865c71337ad93a2bd9cb31b39e5c"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF090_с088_вид01.png",
+      "bytes": 46473,
+      "sha256": "e87e26ce3ed0c14ea95bf5a558b498fc99030c50da480a85cab3e41f5ee43d86"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF090_с088_вид02.png",
+      "bytes": 50109,
+      "sha256": "8ad6e8686b7efb7476ef827dd837822018d2ed18e62749ee13476f64a87f526a"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF090_с088_вид03.png",
+      "bytes": 43613,
+      "sha256": "e3dabf8f96758d0e60d40b218375a419ac44f9bb1885d8dd00cafc9a7510741b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF090_с088_вид04.png",
+      "bytes": 46340,
+      "sha256": "d1bbf5eb78a65b4d9b607323b35489cb87c1f4f1a8c80106eaa4e76d706e6855"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF090_с088_вид05.png",
+      "bytes": 39308,
+      "sha256": "d1fae3a3725f055f0e1a769cad6f401a2b5aa6a3a6ba100201dbc79d2beb794b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF091_с089_вид01.png",
+      "bytes": 43791,
+      "sha256": "6d2396448b7836002a3495ad302e59eaa7e1805efe2c201758ceb23b0c5a08b9"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF091_с089_вид02.png",
+      "bytes": 41024,
+      "sha256": "ae4059e1b257637b9324a203d592a7762bb28fe685b2a3cacbee24e44cc6ad97"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF091_с089_вид03.png",
+      "bytes": 40435,
+      "sha256": "7512d38a2c9c2ba2be1ba20f7a6aebaf9a39711240bb851e6a647d22a9c74eb7"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF091_с089_вид04.png",
+      "bytes": 45336,
+      "sha256": "dc22072f6b2f3ca66a478f898a19935d0b88e7b9d05ef820cda941663c2d0667"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF091_с089_вид05.png",
+      "bytes": 38179,
+      "sha256": "739893044071faee91270ee9d753b0f8f94fb83cacd95c9aab8bad8d91eb8599"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF092_с090_вид01.png",
+      "bytes": 72126,
+      "sha256": "8f82df4c72a7c59e8ec99561631ad007fd9e0bff069ddec039dfe92e1bf0e582"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF092_с090_вид02.png",
+      "bytes": 135630,
+      "sha256": "f87510b058da901e9b5c9f5abcd8d444eb8964f5fc8212d350b82a0d91c9425b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF093_с091_вид01.png",
+      "bytes": 71190,
+      "sha256": "cafb8f25569aef2d1bf630fca8c2fc11017ceaf6655a7e699810735eb20ee2a4"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF093_с091_вид02.png",
+      "bytes": 74413,
+      "sha256": "6f39d2ed19f1d5f5990d36f16c2ea98e9329165c8bec798395b65865478d8e95"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF093_с091_вид03.png",
+      "bytes": 59428,
+      "sha256": "4c3d032208a0fa3c9c55f0db306ce46e914bedaf688a5792d7cc58154daabea7"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF093_с091_вид04.png",
+      "bytes": 39282,
+      "sha256": "bff3a6de4eb7d1a5ae3ecf9e00087366679a9c55ca42483e6f8b2aef433dc7c1"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF094_с092_вид01.png",
+      "bytes": 38534,
+      "sha256": "18605e4b367b5a3ee741e32f39456155ef2b5b477d7c24f6a358fa27e7915e09"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF094_с092_вид02.png",
+      "bytes": 57674,
+      "sha256": "50674790e99220c83a419a4a3e3a7b258c780a2040f954ae829e1cf4c82d5e8e"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF094_с092_вид03.png",
+      "bytes": 53237,
+      "sha256": "1dfe1261bc8e5bf11c7a7d96209c9e0870768818fa6a78243db3d4d98a1361c5"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF094_с092_вид04.png",
+      "bytes": 48944,
+      "sha256": "f58793d69f6b018441462e740cee67e8d3947b1d963367f95246b524072a317f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF095_с093_вид01.png",
+      "bytes": 62807,
+      "sha256": "ef35be2e10fcc0a9d6851e8bc0d15d5ad105b262d6d2ff21b162a95354d9dfeb"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF095_с093_вид02.png",
+      "bytes": 45255,
+      "sha256": "336d2444c7799d5700cf5da06874ce30c714d9fb95d1c99bcd33a65f5d9c0a78"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF095_с093_вид03.png",
+      "bytes": 54619,
+      "sha256": "3efaf42b94834ef9778b3622662c2c33269f872446f50d00c7f935485a40d654"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF095_с093_вид04.png",
+      "bytes": 57213,
+      "sha256": "6b19ac9bee7f4b806f93abc8a47fb0699a4d95047dde6dde2313eae06275c5d9"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF096_с094_вид01.png",
+      "bytes": 41587,
+      "sha256": "29705841c4056720bd2d50ce7bd2ca30c70cdbd42434db90c61fea610f36df65"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF096_с094_вид02.png",
+      "bytes": 48254,
+      "sha256": "2d17d72957c57360579cfdf08383de604497285acd78259174eec043ded1aed9"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF096_с094_вид03.png",
+      "bytes": 42973,
+      "sha256": "135f784dcd01f435bb36db1152f447e8988ac17f4859b6792afe73ccd2d14028"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF096_с094_вид04.png",
+      "bytes": 47314,
+      "sha256": "ec0b3ca77884becba0c2fded52909d6d02f517424b6299f914d49548a2425f47"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF096_с094_вид05.png",
+      "bytes": 45364,
+      "sha256": "510048d0e2080b073025ebef7f190342629c3fea5d58af40d2bf8378f4f2f01c"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF099_с097_вид01.png",
+      "bytes": 37362,
+      "sha256": "dae5d852c3b8d174a47a1305dc7378b954807cc57daaaa0dbdb839069cb25335"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF099_с097_вид02.png",
+      "bytes": 50561,
+      "sha256": "a8116eef8d55d8805a3a3ec8677cf5a214101122282a71ecd68e207777efe112"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF099_с097_вид03.png",
+      "bytes": 79458,
+      "sha256": "b7c7a940b82a4f7b8458b5e335f8ad4923483ef5357999a80a1fde0e111dbf6e"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF099_с097_вид04.png",
+      "bytes": 80040,
+      "sha256": "f6d5f575da77dd8e22c12290d922dab67d5f1ed38f8af27d8a5cb39dfc5e8e4a"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF100_с098_вид01.png",
+      "bytes": 123967,
+      "sha256": "a59f1186ffb968b572667acc111459594bb707e7fe81ac01362b0f56490bfe19"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF100_с098_вид02.png",
+      "bytes": 99969,
+      "sha256": "a2baf78fbb4d257d21fd938337a7db0ffe2c0a9116419d14cdbf560cee69e15b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF100_с098_вид03.png",
+      "bytes": 63789,
+      "sha256": "6f0124e2a300d9b23c0ac26abfeadb4dace19680ea0ee83938d2388cec7b172c"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF101_с099_вид01.png",
+      "bytes": 36105,
+      "sha256": "b201eaa8c93c0488f45eb5f40ced248a53fb4673faa1577916faf38632cf166d"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF101_с099_вид02.png",
+      "bytes": 22358,
+      "sha256": "d020d50ddddf3e42902468ee077c611757ac1556e6d1b5b0b0ab562c17c4a765"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF101_с099_вид03.png",
+      "bytes": 59685,
+      "sha256": "2a221a981d9eb96c67c2aa44204c4c53fa906c741bcaf1c5e6bd0e3669b41cb8"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF101_с099_вид04.png",
+      "bytes": 50905,
+      "sha256": "b5088c14517c986d2eb20afd0d4536cfdbeb7b225a72e1894332f4711c9c5a4e"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF102_с100_вид01.png",
+      "bytes": 58087,
+      "sha256": "2856614b9d9162a18cfd119bc85da127e0adc4f67ebf0ba49970e852ae02e3b5"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF102_с100_вид02.png",
+      "bytes": 63937,
+      "sha256": "6e2d6793c8de5dedf88d031e06efd47b9bb444b3f64d3ea1d2c2b5ed107ddb84"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF102_с100_вид03.png",
+      "bytes": 55250,
+      "sha256": "1850cdc3c0da01432886be4f74b96efe4a65861b1ce6ad62494fd718036378c2"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF102_с100_вид04.png",
+      "bytes": 31112,
+      "sha256": "9d7944b7cca353af283d87fc98c8f90d1e1ecab3c0ac82a2a7864abe4b47bb51"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF103_с101_вид01.png",
+      "bytes": 101675,
+      "sha256": "a3522c434cf36d7ceb451d08c0ada585244b38785edf7c8b2237ff596288eb5e"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF103_с101_вид02.png",
+      "bytes": 81640,
+      "sha256": "b32f12f3eca87ba82f97845a9653cce90903e6d651bba0fe5822a45de5a95b5d"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF103_с101_вид03.png",
+      "bytes": 106431,
+      "sha256": "59aff6d059ed0bc46b53ebfd78cd7034a1d9ac942d48ab4c2559dc17527c3e7e"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF103_с101_вид04.png",
+      "bytes": 102891,
+      "sha256": "dc07d47d0fcc480344428586de2aaaf2a00cc8ba5a2c7a54b530d4ed33132a32"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF104_с102_вид01.png",
+      "bytes": 109446,
+      "sha256": "dddcc3265a78b53f14915a155c9af7fbf39f502c93ca63b366f8151f1fca41d6"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF104_с102_вид02.png",
+      "bytes": 101132,
+      "sha256": "4e0f6d42f4bcea9e0b31fed0f5cf9d9453a744a6bc3a76a290d63f55980b9c6f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF104_с102_вид03.png",
+      "bytes": 79343,
+      "sha256": "6dfe55f676af53f0b25f5bd498149a9ca88208de83f506c677b9d390dfb23ff3"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF104_с102_вид04.png",
+      "bytes": 94753,
+      "sha256": "cfc9a62fcdd2f4a28bbe4550b99ed5fe5b412321dd1b431e407f3f6974c79563"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF105_с103_вид01.png",
+      "bytes": 113284,
+      "sha256": "c870fc07ddc18a35889ac998d4f9001d7b66efa03114d4d967ab5116cdc85504"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF105_с103_вид02.png",
+      "bytes": 109590,
+      "sha256": "6ee855a66a04f2ddb626798075eb39bdf3acaf171264119778ea9cedd0cf7ef5"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF105_с103_вид03.png",
+      "bytes": 140301,
+      "sha256": "028e576ce38321ad89dba06b642c5427597af2060091349e94eae47e9ba63f05"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF105_с103_вид04.png",
+      "bytes": 122002,
+      "sha256": "87f5bb5e05aa9e1443093fe07f07f7b287e0089ea0ada38af955e96cf7b535b5"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF106_с104_вид01.png",
+      "bytes": 97889,
+      "sha256": "076c11d7f93d794763666d6c399bac1691142b09e3e10bddb7545f0015bb2ce6"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF106_с104_вид02.png",
+      "bytes": 70532,
+      "sha256": "36b47081c35bb10e14b6867f9cc0d64da7cc88e7e74f95336fc14a454d67909e"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF106_с104_вид03.png",
+      "bytes": 67909,
+      "sha256": "205389a45c28d2605d25b10c8a532fc969832511dc092696c3565d518d6db78b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF106_с104_вид04.png",
+      "bytes": 106663,
+      "sha256": "48c2cf2f536852e5f19070241fd6125d16b73b18e65d08608924a817977c3c46"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF106_с104_вид05.png",
+      "bytes": 83403,
+      "sha256": "593503f5038c0b854698ed056539c76e92c3deea8dc2fecc2d0e97b3c63d773a"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF107_с105_вид01.png",
+      "bytes": 98366,
+      "sha256": "a18708eefc1250ebcf560c507c372aa66d103c045bf70904377f172d5116e86d"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF107_с105_вид02.png",
+      "bytes": 85142,
+      "sha256": "f4de597349dc6b24f32f95dafd2edda10d67e154f068d845a2264158f5f17bea"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF107_с105_вид03.png",
+      "bytes": 37742,
+      "sha256": "9e4858de8066716eb34177a8c550c4ae05b3a7726e192c9a6891754ac0f568bd"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF107_с105_вид04.png",
+      "bytes": 22109,
+      "sha256": "eb8b10bf182c5075dab879d1efa25c33df935d54fcf7ba5e64d3605fffb689c1"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF108_с106_вид01.png",
+      "bytes": 56288,
+      "sha256": "9a52bcfccbe4a0ae2162548bfbf8badddd9cae3074414f322fb9bb58e2a570d7"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF108_с106_вид02.png",
+      "bytes": 62266,
+      "sha256": "00b5668bb55b7cc94f640ecb65ce8433b94cb7e6905b8999cebc1e44cd793c26"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF108_с106_вид03.png",
+      "bytes": 56817,
+      "sha256": "6d0a4cf815935661885ee38b19baf54080a709a6adbcd84325ea068e034d6345"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF108_с106_вид04.png",
+      "bytes": 73041,
+      "sha256": "100536f0292d0e685b9ea79199cb0f1fa6a84535b7426bcc8d887c91f0d4db39"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF108_с106_вид05.png",
+      "bytes": 76044,
+      "sha256": "0e5bb9a06116945c1a0ac7e1b68d2b68093e82a522c1d01e1b1dd70d612e209a"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF109_с107_вид01.png",
+      "bytes": 71177,
+      "sha256": "d020fd6cf1f4d5f7481c4f5ea85c0431628ca8831b72247a654abf1e53e4bc72"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF109_с107_вид02.png",
+      "bytes": 75850,
+      "sha256": "8a82519b5388c93b0b0266501c406395e7d7ef73e475f1165f21a157c1b8e7b2"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF109_с107_вид03.png",
+      "bytes": 63598,
+      "sha256": "44afd975ebfafa54269b18e474dc90e8d3c5ab4efc6d1ae7c10180bb8fb0b47f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF109_с107_вид04.png",
+      "bytes": 93632,
+      "sha256": "3b4a8d46022145bb3cfcc35168ed27dfd813263f21d98cc9a31a222b6fbc9f3f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF109_с107_вид05.png",
+      "bytes": 85689,
+      "sha256": "2525159d4fe1e9d4c8c24ce5f3a307d08f6b6d5dfdfef5f462d6ef48d7b3a859"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF110_с108_вид01.png",
+      "bytes": 82811,
+      "sha256": "677525ff8fcc34c3aeaca634254c3ad036c2938962a6f933d08c9c61c5e56f87"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF110_с108_вид02.png",
+      "bytes": 71390,
+      "sha256": "28df1137775fbdc10267a36f1ca182ff74034f260594bfced20dfadad56d4cc8"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF110_с108_вид03.png",
+      "bytes": 68155,
+      "sha256": "c1edc518f73c4cd5aa493544d8d1e0961b7e0700b163a9822a882ec98e10a2b5"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF110_с108_вид04.png",
+      "bytes": 63457,
+      "sha256": "99a48b9b7647736c31a55ef05586c8c8658e6245fe4094c49c9d852ff5745409"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF110_с108_вид05.png",
+      "bytes": 82061,
+      "sha256": "c7273d1b64aa6a89638719d47a99f4187542f08f2eb0359be3ea1c9e8958944f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF111_с109_вид01.png",
+      "bytes": 88550,
+      "sha256": "4b7e8126f64221d22388ee8b033ebe6b09b1a599efb9babd80bb2b28df3c7905"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF111_с109_вид02.png",
+      "bytes": 61511,
+      "sha256": "879f687676e3a4c3bf4b323eae857cf72c7cdb2aa820f1deb6ce29ba853a2a69"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF111_с109_вид03.png",
+      "bytes": 171561,
+      "sha256": "28214b962131938a9c45cc4b6ff458dbaea044da40bcec76a675a1a255a790ac"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF112_с110_вид01.png",
+      "bytes": 112365,
+      "sha256": "2f7eacd9bdec4cc0d4682bd4997fcb3a68b43bc5fb3cad490f34652bf53dab90"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF112_с110_вид02.png",
+      "bytes": 106884,
+      "sha256": "0003c6bd6acc1bcc10e10aa238ea93bda97f8044880ec372cd3b2feab596c051"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF112_с110_вид03.png",
+      "bytes": 61246,
+      "sha256": "a87a8c7c52176516d94b75f015343188530bf5e34fbbf80b6f022d2eaa643f31"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF113_с111_вид01.png",
+      "bytes": 75005,
+      "sha256": "3ef791462d782f991eae823ce3bfcea3376f22c2acb688be05953f3758978e6e"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF113_с111_вид02.png",
+      "bytes": 71853,
+      "sha256": "127d3c325096858f6fcf41bef54b789169e251693d266d3af4823e1b6c5efd12"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF113_с111_вид03.png",
+      "bytes": 52334,
+      "sha256": "7f4e2f07a38694dea93f464e5a38fcf6735f6b92802d00475e3288ec6198406d"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF114_с112_вид01.png",
+      "bytes": 67298,
+      "sha256": "29714dc8d55908361f2ccc5389c76030e0a43b9fa8711325b34c3ce1deff2dbd"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF114_с112_вид02.png",
+      "bytes": 67166,
+      "sha256": "865bfc611a6887b5156210c42e13664f4cc2e8d2f57cc9dfb9a61ae8f9ca8766"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF114_с112_вид03.png",
+      "bytes": 38580,
+      "sha256": "b5aa1e4090c3c89a67fbe80b3674ef1230df8b45d4f97558bf01821f1558881c"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF118_с116_вид01.png",
+      "bytes": 59829,
+      "sha256": "e4b6691625201bb6112a1b083edf20c8b2036e8c5c261d7096a023cc8b703d3c"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF118_с116_вид02.png",
+      "bytes": 59383,
+      "sha256": "d357c082503f72457fe67e002319c427c8efd2f2439d2fd837427493a7467fdd"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF118_с116_вид03.png",
+      "bytes": 70667,
+      "sha256": "0630f01261322ccd351277a4d8fd879eccc8859abacb77d7653bc9d8d9095e9b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF118_с116_вид04.png",
+      "bytes": 44787,
+      "sha256": "b3f3e1e47b447927ed3a523d5154c30ae217d61b195e593b475c8b616d07fe61"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF118_с116_вид05.png",
+      "bytes": 85777,
+      "sha256": "6d2514b2c1a21834532c77292dccc9d637324d87d15a94030c61da6df27245af"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF119_с117_вид01.png",
+      "bytes": 66708,
+      "sha256": "21720573d2de0b6dad6aa9946097f81b4b1663ec25900c7853d3ee645c9612b2"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF119_с117_вид02.png",
+      "bytes": 60165,
+      "sha256": "220631c956006343d1dd28e9b25d64fdb6bc4603172ff0bb350ae0c765c275f1"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF119_с117_вид03.png",
+      "bytes": 90595,
+      "sha256": "e384ea93190ceaa18da51076deafe7bb4ce7ca745599836353e624e14881ac57"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF119_с117_вид04.png",
+      "bytes": 47510,
+      "sha256": "c9952d2276db0b0089f40b40a528e8e6e58501adb6fd01760181cc9d9c2a835f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF119_с117_вид05.png",
+      "bytes": 36134,
+      "sha256": "0cae36b46a85cb0c6fbbc027b54a2d28c63e824aa13a439396315536444ce2aa"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF120_с118_вид01.png",
+      "bytes": 63616,
+      "sha256": "83c5a5b66231ffc2c97c2e2c51e8ef450214941d5dd36cde2b066b45ba67a7cf"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF120_с118_вид02.png",
+      "bytes": 83372,
+      "sha256": "21e9825c9e9c6c2cb8cba2be8f1a4121c1ac562e1fd39a68402229635258be23"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF120_с118_вид03.png",
+      "bytes": 88175,
+      "sha256": "1f6d77564a61542914fd32612164f0dc19ccfae749107b7096c2fcbdfafdc15e"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF121_с119_вид01.png",
+      "bytes": 80977,
+      "sha256": "a1b91a256d6620726e8f50d7475638818c08733ed7d11ba22aa389d727f7ac9f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF121_с119_вид02.png",
+      "bytes": 62023,
+      "sha256": "44ea867eeb4609e9b089093c1a32d571906bf2696d73a6fd50a4651520773c99"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF121_с119_вид03.png",
+      "bytes": 36075,
+      "sha256": "cb2bd88fc98ed71f11f6c7748df6b652a8e78192413c7f42b977ffcb2eab505d"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF122_с120_вид01.png",
+      "bytes": 51686,
+      "sha256": "5e188d0d63ae647ef0ddeba618bb1806ff13f2070f82199aece56059ef642617"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF122_с120_вид02.png",
+      "bytes": 49321,
+      "sha256": "1cca366ae96c9f724ec3ce408e2b22a9bb2a9075938570e5c295c0dc10750b2a"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF122_с120_вид03.png",
+      "bytes": 27610,
+      "sha256": "4ad7fec8882ed4f51423810ca21ef95ba59349fce185fcef2ea80dbda5f42dc5"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF122_с120_вид04.png",
+      "bytes": 61634,
+      "sha256": "845419b827a601f92ba7021b9f9898482ac2333222afdfcd23cccb2bc8d8f5cb"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF122_с120_вид05.png",
+      "bytes": 71667,
+      "sha256": "f057c9385a14626084edfdc6f6da16d0ca8e7c86dc3f9d14116e0be664d578e0"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF123_с121_вид01.png",
+      "bytes": 29481,
+      "sha256": "e257be4e34df290ac79cad2d7a5c08723889073389f3d25dd764554cae4960a7"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF123_с121_вид02.png",
+      "bytes": 24575,
+      "sha256": "62df8d3b48500e96c0ae47c8295465509b7de1f10e9fed7b783c687bb4c0d536"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF123_с121_вид03.png",
+      "bytes": 23970,
+      "sha256": "fdc4966bc31f4b99a6ff61d979e5055d4714ca974741acc75df94b1aaf2a06ab"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF123_с121_вид04.png",
+      "bytes": 56412,
+      "sha256": "ff801d8847ca6ca5c28be0341c59419b32425c225470b5940c6fa5d9c8a026b4"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF124_с122_вид01.png",
+      "bytes": 111411,
+      "sha256": "d3f572828cf98fbd75cc3d199adf69109f8357e37c370bb15f8d2c67fa9be2ee"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF124_с122_вид02.png",
+      "bytes": 68449,
+      "sha256": "16bfe4bd6068cf80535eded5372659518938664fa8fdc7d429c133e24839c7b8"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF124_с122_вид03.png",
+      "bytes": 68194,
+      "sha256": "0aeeb86b8355ec4b0483a0047c9eb2b4dfbb347d8a2434f8b5fe0da8bb8e1576"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF125_с123_вид01.png",
+      "bytes": 70814,
+      "sha256": "7b27eb65e5b46b5e05f3ce83791d25e1c167591cd124b7f5a0dbab9389b1c2c4"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF125_с123_вид02.png",
+      "bytes": 54947,
+      "sha256": "a817d6043e8bfa480679e41af867a6db958ad50f9b1d8ba8c0bf0130a7c5a2cc"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF125_с123_вид03.png",
+      "bytes": 58406,
+      "sha256": "22839be89e6fc00e2e2ca41ad820c134bf159aec3bb948c8c53f16b5eb91509f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF125_с123_вид04.png",
+      "bytes": 59225,
+      "sha256": "6790dbbdd04edd8af9ac3596707223174ea5f41b488604efd732c8b9d069f51e"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF125_с123_вид05.png",
+      "bytes": 63259,
+      "sha256": "ed63cb7faad938c8b8706130b6aa883d5bf00feaa008ef6332060f5d297560c9"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF126_с124_вид01.png",
+      "bytes": 32226,
+      "sha256": "3cf08083cb36347bfe210e63293909199435a62db4751d5423975d8098768ae7"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF126_с124_вид02.png",
+      "bytes": 87151,
+      "sha256": "f516bd9ee0581d9dc06df3c45ab040dac8ec1cce2af656f089eb056d5afe095c"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF126_с124_вид03.png",
+      "bytes": 73327,
+      "sha256": "f55e6a00e2ce1bb5af550cd1ed9319c67e832c77271f39a2aad7ff67c63c521c"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF126_с124_вид04.png",
+      "bytes": 82507,
+      "sha256": "b0fc9bfe47c1ab8ba6d9a808aea853c6b66f1a56add2a9bc22c2e9e70ec07bae"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF126_с124_вид05.png",
+      "bytes": 60596,
+      "sha256": "c9f85c917d9ee684093d40c2041063c9faef5283d5fdedc218cd4db6b01e4256"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF139_с137_вид01.png",
+      "bytes": 64043,
+      "sha256": "eb4512003f58231f66019845ad58c706238da7e2cebfc947e8ca6b51c2f2a31f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF140_с138_вид01.png",
+      "bytes": 32302,
+      "sha256": "f9636414c4644213fb533f2f11825c2da1519cf01842a6c234df52e7d5bc9023"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF140_с138_вид02.png",
+      "bytes": 58236,
+      "sha256": "063212c6d70a3d5abbc6812eac22b22286905b62ea81879919d2e0b717302f9c"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF140_с138_вид03.png",
+      "bytes": 77960,
+      "sha256": "a23a82d9a6ef871133fb401d30c7d8045681af809e152e521dd7adfe249f1363"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF140_с138_вид04.png",
+      "bytes": 72504,
+      "sha256": "8a06f17fcbb58270d658ccf602d508584117f3b06ac7bbf7e271322911705bf5"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF141_с139_вид01.png",
+      "bytes": 52776,
+      "sha256": "d207fca1a254bc7b53b480ffd1ce9da8396d872677cb379f57470b84b4bf64a8"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF141_с139_вид02.png",
+      "bytes": 38121,
+      "sha256": "7bf8b3bd61264f0fd2c47b16d341d47ef61da430062c4b9f5c3d9a523832d994"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF141_с139_вид03.png",
+      "bytes": 72460,
+      "sha256": "8e617de777ef5bfb3ee3c3986fe71201b5108c4b8db6963e44d441859e43a605"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF141_с139_вид04.png",
+      "bytes": 33262,
+      "sha256": "1cf1820f18c2218cfd1cbc2e0d45857c17c945d5b3fd340c1ae016a9659f260d"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF142_с140_вид01.png",
+      "bytes": 25533,
+      "sha256": "f9f2920477e17c5246a1077830ec40ef3ede6bd8fb682b09675c2e4c9d9a87b6"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF142_с140_вид02.png",
+      "bytes": 43375,
+      "sha256": "5c54036a0870560975fa9036852a1fba72e476f7601f0021f82c3b6a8978954f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/И_PDF142_с140_вид03.png",
+      "bytes": 23310,
+      "sha256": "8e35d2a9d53eeb820479b5e4cca5c887815072c54becb2c1052032547371e519"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Наблюдения по фотоэтапам.txt",
+      "bytes": 58500,
+      "sha256": "1b0999cdddb0dd4dc73c7e0e70593db4b40b26a409c91229f59f66086d0e89bd"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF090_с088_вид01.png",
+      "bytes": 54522,
+      "sha256": "e409e357d79e5f203ac2428271b9eb6f4a448c25b703210515b26d2a9bc8a9f9"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF090_с088_вид02.png",
+      "bytes": 164401,
+      "sha256": "3d75603f0252149e14024b207a5566170680d491a6ba2a73ed4f1ba5867800a3"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF090_с088_вид03.png",
+      "bytes": 64466,
+      "sha256": "40ec980f3a9a2c3850624e008fe46cf58e5c9443e546a36154435ee432e42ec9"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF091_с089_вид01.png",
+      "bytes": 156986,
+      "sha256": "100ef4dfbec0ab9f75eaf757a364e7417b20dba923912efa4ef6245a909861bc"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF091_с089_вид02.png",
+      "bytes": 163738,
+      "sha256": "e7857c92380a65c84ea2d91bb99460ab6ee6bb5d0ff0666d01103a1f57d4cecb"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF091_с089_вид03.png",
+      "bytes": 181040,
+      "sha256": "bd953a82c48edb1e038d773b1f4da9e14c8fdfd32b6f0ebfd29dcb96044c09c8"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF091_с089_вид04.png",
+      "bytes": 212702,
+      "sha256": "ad029771565657a4d25fac7558ed5d27008d6e0b94e0e04de06123fcef67c32b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF091_с089_вид05.png",
+      "bytes": 210789,
+      "sha256": "9e7aed5ba7ce894f9f8a5a70f01f2a645e67345978eecac576261a382b402a73"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF091_с089_вид06.png",
+      "bytes": 225517,
+      "sha256": "e2bc11186db14d81b7b7f6be23c37421c75acfd629e2c1bff64ba097c17ad198"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF092_с090_вид01.png",
+      "bytes": 233114,
+      "sha256": "324393cd208af4f6f479b0a01c2c0f721aca9b19ed02c97e50a1f8e6b0a94bf6"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF092_с090_вид02.png",
+      "bytes": 192531,
+      "sha256": "97501a615ebf55d84db76d85136db13e7f6406d65fab9956f34a44affa027f0b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF092_с090_вид03.png",
+      "bytes": 67470,
+      "sha256": "90b7cc6a02482b9114ea4d5ee2d7e6ef3fb9dd00434b94efdf8b8cb2dded5df3"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF092_с090_вид04.png",
+      "bytes": 136082,
+      "sha256": "8fcff3fdef7d963934cfe2f83cc48f2260fd202252ebd3a253b9dfdfaaedabb7"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF093_с091_вид01.png",
+      "bytes": 169702,
+      "sha256": "87dfc636e431060b79df0814b634d50006fe21e199c41e9baeea94a9ad28db8b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF093_с091_вид02.png",
+      "bytes": 118746,
+      "sha256": "33239645424082570e72bdaae5d7b4c9223983d4e97e40ea7b56e941983559cc"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF093_с091_вид03.png",
+      "bytes": 189528,
+      "sha256": "2cf2ecb72e0d01f3afba42d68cdd809fd9cf3287ef5a989c7a069d2d95d07f11"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF093_с091_вид04.png",
+      "bytes": 151543,
+      "sha256": "7479fab121d1c4601db28ecf62f17633241bc4c25d00cb569a58786364125bfc"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF093_с091_вид05.png",
+      "bytes": 175180,
+      "sha256": "700ebaa96336f611bc3a51928e3b70c17682da583d3ac6c766ea50189e1c538c"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF094_с092_вид01.png",
+      "bytes": 180837,
+      "sha256": "3cfb752816e5f2c5d3ce0177b58a6ca0b3ddc2e9714883578e1b6bc71665f716"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF094_с092_вид02.png",
+      "bytes": 185536,
+      "sha256": "ad7a98a3c120ce36467a957854db27e4a6d5a6345668b0ee8a1aa1b18b87d455"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF094_с092_вид03.png",
+      "bytes": 177370,
+      "sha256": "95ec207411b29e4294b130134146504e17c625ee1df2066dfdce70011dea6237"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF094_с092_вид04.png",
+      "bytes": 144151,
+      "sha256": "bcf4576d49ee35c6b02fda25dcd925252aafbdf97145c2e2927ed97423013183"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF094_с092_вид05.png",
+      "bytes": 146362,
+      "sha256": "780db3c0cbdd164a07dc9cbe379d88097c89ad19c35df0590b241090c48e7a71"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF094_с092_вид06.png",
+      "bytes": 159227,
+      "sha256": "b7b100d1982bb906baae1d87808a3b8700c1430c401d9c52400694ed4f189685"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF095_с093_вид01.png",
+      "bytes": 139254,
+      "sha256": "23cb532e939e2a7fcec1e2b390117bc89c6571b99d1b87a0bfddd70074cbddcc"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF095_с093_вид02.png",
+      "bytes": 156886,
+      "sha256": "9f815ff9674e90616d1e4ac965f068ba52c801e06d1231b45e6345f7a4afdb18"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF095_с093_вид03.png",
+      "bytes": 108945,
+      "sha256": "4c0174e8191874c39ef5661231df5c2c3c72c22088343c84c12a487d8beae2b9"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF095_с093_вид04.png",
+      "bytes": 86351,
+      "sha256": "5cdca418d0d4b8d9bb651a26c36fc44deea222bbc22983ce3c514ece346e52d0"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF095_с093_вид05.png",
+      "bytes": 101911,
+      "sha256": "7d8d6b04ceb168bb17169f9892eae17c20eca1e91a7746c4d2a4ac0788c64e00"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF095_с093_вид06.png",
+      "bytes": 150046,
+      "sha256": "0f5c4906db10616d94e7e32153ba494c68defc5f6b5b63f395bab2151b933c4c"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF096_с094_вид01.png",
+      "bytes": 156484,
+      "sha256": "e556ba2920f6d400a19ae493604b13cdd51453aea220c247f39a14fb199f9569"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF096_с094_вид02.png",
+      "bytes": 102740,
+      "sha256": "c28028d327dbfdb2863119865cb08cb48e70ae97fbf2de14b8419bdfecba1acd"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF096_с094_вид03.png",
+      "bytes": 208899,
+      "sha256": "a7ce23083eb892a64bfddd70c3b2e452a613f44c79981c14d7cc2d052f163c5a"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF096_с094_вид04.png",
+      "bytes": 152451,
+      "sha256": "5b4c12258469921d3de894ce32554eeb94ba31503874f5e73847d66fa6a5bc7a"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF097_с095_вид01.png",
+      "bytes": 26503,
+      "sha256": "fbd7fdde412fdfe9356025e6284957efd4fb229dd5ee38fef84ebedece7ddb0b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF097_с095_вид02.png",
+      "bytes": 109407,
+      "sha256": "f7408d7c2c101d7bda080815c9ba849050c7624d6bb869714d16d91f1eebcf10"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF097_с095_вид03.png",
+      "bytes": 135023,
+      "sha256": "73702876a06fd8d6e151aa3b2ea5637ea6e68d2d81e7a8f1567508cdc5901a89"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF097_с095_вид04.png",
+      "bytes": 33200,
+      "sha256": "05c9200337c9a95bdd40c759a8555f0392415a003d0cb79fd6ad2428c5817afd"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF098_с096_вид01.png",
+      "bytes": 168231,
+      "sha256": "cfce0ec0a8bfc39312dec7404a7f94df59b07c9ee9fa0e7c44130cbf81430195"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF098_с096_вид02.png",
+      "bytes": 203653,
+      "sha256": "ebc0792835fb226effcbdca80f91914b7d797e260c261e67993dfbd2febc6704"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF098_с096_вид03.png",
+      "bytes": 224388,
+      "sha256": "c0e42b20bc11bee05a377970352798381004c49210d0ab60dd21ee336a0ebeee"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF098_с096_вид04.png",
+      "bytes": 213854,
+      "sha256": "8e468eb23b165c0bddd549e20f96782b6a3fa3d7afa1a3e7e7c12c8c11dc9c43"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF098_с096_вид05.png",
+      "bytes": 169899,
+      "sha256": "f0cb5b7c4fc135cfdad3439c7e9372f2d5498e491c0943bfffe75a918aca1c84"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF098_с096_вид06.png",
+      "bytes": 172437,
+      "sha256": "bf0c293e7c777f66d0a68a44069b7c38237fd91419b35e0a8a89f69a708a0300"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF099_с097_вид01.png",
+      "bytes": 174269,
+      "sha256": "ea8b90e79a7df0f3a538dbddc10cfa7fa4f7536dc5af0224506b609325407c71"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF099_с097_вид02.png",
+      "bytes": 231235,
+      "sha256": "d4e5aa0e6fe43c0e61ac9837d7c11077952aa2b2eec21d17c4950a2eafb4b640"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF099_с097_вид03.png",
+      "bytes": 132807,
+      "sha256": "ef271783f0bd28344a7091653f2b655cd562a927eaf2810b0ffeaf47ef61e6aa"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF099_с097_вид04.png",
+      "bytes": 154876,
+      "sha256": "d98eb069694b3e77b709598bc162c5ab53d94b4a58420f7d1c04858d3153f9bd"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF099_с097_вид05.png",
+      "bytes": 250473,
+      "sha256": "48c08614a17f156c340e461a5ce544ec5112a60b27aea3cf0e27a0449096753b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF099_с097_вид06.png",
+      "bytes": 199676,
+      "sha256": "37777af1bb2869f84290cddfd449a19c066c69e6e765274e8146156df535153a"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF100_с098_вид01.png",
+      "bytes": 116458,
+      "sha256": "3275cb1bcb2fba42c43ca69c3bcf76ed976377bbf4302ecc1e0ea24c2a27e4a4"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF100_с098_вид02.png",
+      "bytes": 206093,
+      "sha256": "498c05039a2f7c56139788db9d2ca9db621c8b519e6683a6a27c9be30cab3ca0"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF100_с098_вид03.png",
+      "bytes": 140651,
+      "sha256": "08b4fbcd70f4362c25fb7a598f557d6a892d62df488c8553a29772d08f6aa10b"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF100_с098_вид04.png",
+      "bytes": 104186,
+      "sha256": "723984870da6d59a4e465f529e20cb9dcf969a9ec9408cece06f595d6a483849"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF100_с098_вид05.png",
+      "bytes": 189111,
+      "sha256": "1a515352b32a96a5d94a91634a5ee924d2f89ab97f94a6d5f8aa6103c29f49c4"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF100_с098_вид06.png",
+      "bytes": 111608,
+      "sha256": "d61a15a0b714557a748e91871fc52699116c5f77688e73eef9fd9f02e9698181"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF101_с099_вид01.png",
+      "bytes": 171331,
+      "sha256": "621d2c8df428b1caef2815cd7ffd0359948d4a8b4460341d36b20b752b10db06"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF101_с099_вид02.png",
+      "bytes": 61668,
+      "sha256": "0378442ec520f5c62a8eb864b50e52f4e4d1e957985ff6e9f1154cc54fa926f9"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF130_с128_вид01.png",
+      "bytes": 41167,
+      "sha256": "bfe0555da2078ecc0f81ce7560b3b8b4a0bb6b9f6da00807c9a5554a0e80c638"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF130_с128_вид02.png",
+      "bytes": 261156,
+      "sha256": "d43f603667dda11fe15eeae2b6b1cafdb049a7d19d1ff6e2400f59cc78bf693d"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF130_с128_вид03.png",
+      "bytes": 176074,
+      "sha256": "846ef41f36d1e32c3cd094e3c76a642d8311c9e5bac6bc91ac3cf9d6b3224b7a"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF130_с128_вид04.png",
+      "bytes": 77528,
+      "sha256": "5c00546a674fbd8b60a2eece016c8b110bf651db1110ec1e6d71223dbacffa73"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF130_с128_вид05.png",
+      "bytes": 36319,
+      "sha256": "6827f3b2aab5e2d29dcdf07c6c842bf52de797ed42bb228562858218c7e6eae9"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF130_с128_вид06.png",
+      "bytes": 161952,
+      "sha256": "165170ceec119ec24f1d1be85bf203054b42b1b73ac79c9a9fe1b5f616ed5232"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF130_с128_вид07.png",
+      "bytes": 41551,
+      "sha256": "fcfd3e67be707a2a617858b33c8db9229171ec8aeb02e3467d3d542735450fc5"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF135_с133_вид01.png",
+      "bytes": 88555,
+      "sha256": "dcbadd9627fdd58312849b4cb4d573b64f7fdf18fece354e32f0149ab18db6c3"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF135_с133_вид02.png",
+      "bytes": 163873,
+      "sha256": "e43fc23d6f119beb978aa8784fae554c8e230a3c5ab0bf1bab32af3e13d33a6d"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF135_с133_вид03.png",
+      "bytes": 53929,
+      "sha256": "01506a743cc906521d371ec1538feddbe4e837da42e61e89bc48b4a7a549be4f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF135_с133_вид04.png",
+      "bytes": 61895,
+      "sha256": "bbdaa641bd7f767b2560a30eb88ea340844b893349e56996414f1cc90ecce936"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF158_с156_вид01.png",
+      "bytes": 86744,
+      "sha256": "65fb98021830240a0abf1e2ee5831e65913ff824e7cbefdfd6a8c32b4f9e9472"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF158_с156_вид02.png",
+      "bytes": 212816,
+      "sha256": "64b8140e3dd642bc2ffcea481e5fd2fd3b7435a787e4d3bf29c47872fa6d8f99"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF158_с156_вид03.png",
+      "bytes": 161380,
+      "sha256": "ad05cee82e3f1d92bd5889b8476b270ce7304d517e591d95de93013088e47b05"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF158_с156_вид04.png",
+      "bytes": 165215,
+      "sha256": "c6231f0ee85412d2d0a53465cb4ea645a8870d366837c2e3219a631e554d7211"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF158_с156_вид05.png",
+      "bytes": 186018,
+      "sha256": "3e4066f03d3c9ef482031bf8ed4b8c3c655dd991a6fbbdfd7eeb917d6a82e1bc"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF158_с156_вид06.png",
+      "bytes": 112189,
+      "sha256": "1be128338e83deed8d1dc8f53f66c8ba22ed7fcf5fb984623491492892309666"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF159_с157_вид01.png",
+      "bytes": 159027,
+      "sha256": "730b5feaf420aa436931a2916e22e96fb7ebb009184cf4fcba429963ba315821"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF159_с157_вид02.png",
+      "bytes": 186103,
+      "sha256": "d9c32f43fa2038abae331fef56feb17ad4d48c74f3fa561752a09f2e0edd5587"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF159_с157_вид03.png",
+      "bytes": 30513,
+      "sha256": "76be6bcbbe05c8d64c38c4238131525a9641f3d4c812424e8c52f288fb532227"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF159_с157_вид04.png",
+      "bytes": 81052,
+      "sha256": "08ed5829d2c1d83602c88a6fe142a866cf1e16992b6f9d1f386358779565bf88"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF164_с162_вид01.png",
+      "bytes": 86203,
+      "sha256": "56ae89ffd9f1fd0a7c8fbfb344071a4912812440278bed5327b64a2fb1f8b6bc"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF164_с162_вид02.png",
+      "bytes": 112604,
+      "sha256": "7cdba5615454b6d90f4879b720c54b7af7c2cdf8589374e5730e7dd83a1510af"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF164_с162_вид03.png",
+      "bytes": 144118,
+      "sha256": "76cae425910df9c92d4e3852df9e8042596608b9a85bd94b7ba35ea6c14834a0"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF164_с162_вид04.png",
+      "bytes": 82473,
+      "sha256": "035cb3dab8019e7c9b522e1ffd20dccae861d7644524910da308b138b3e131dd"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF164_с162_вид05.png",
+      "bytes": 88728,
+      "sha256": "656ec0db785ea3997d754267d6232e93d3d0e727fc18cc7ef062e3127e51c970"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF164_с162_вид06.png",
+      "bytes": 116734,
+      "sha256": "31816ffa7542f301c360c32d2f15891585c49ceb72071074f7d4959a6cb79217"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF165_с163_вид01.png",
+      "bytes": 100116,
+      "sha256": "2d53ae3497b5b0c2c8e7d957ef3865840713b7f5de13cf88d9170a1bf1b083d4"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF165_с163_вид02.png",
+      "bytes": 129546,
+      "sha256": "51c18be383a9c285925cb5a3d9eb9a76caf4c030f5d68cf045c4a14771223d3f"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF165_с163_вид03.png",
+      "bytes": 97013,
+      "sha256": "3d91f62936aa44b5c6592f75d4cf1ac0d0fad45d75b686d5173677f0da73aeb8"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF165_с163_вид04.png",
+      "bytes": 108266,
+      "sha256": "7b3adeb26f3fbbf1e0245167378167e0855317080e2070dc53b886296ac780ac"
+    },
+    {
+      "path": "cadlift/references/pvc-roof-knowledge/Результат анализа/Фотоэтапы/Р_PDF165_с163_вид05.png",
+      "bytes": 78444,
+      "sha256": "c24d30ff8e730cbbf739f3cc7b34b0ed86be4e27532c7ada4870180bad7fe670"
+    },
+    {
+      "path": "cadlift/references/source-archives/8. Узлы 3D.rar",
+      "bytes": 96252582,
+      "sha256": "dadae8c92e7c8f2b5be6e32d72dc48231dc5f02ea725951ced8810b97d443190"
+    },
+    {
+      "path": "cadlift/references/source-documents/Промпт.docx",
+      "bytes": 19403,
+      "sha256": "cc32e036139eafe91f71375a036da5aad489a43bebb4d839684a2f554674c48b"
+    },
+    {
+      "path": "cadlift/references/tn-viewer-upload.md",
+      "bytes": 7061,
+      "sha256": "4e04cb2a109b84be290ef8905b17ce58c2a8a3120e85444be1b529a2edd4b5fd"
+    },
+    {
+      "path": "cadlift/SKILL.md",
+      "bytes": 34375,
+      "sha256": "d84d97c3f3559f5855bf7950009069fa22efcbc4d649f863e8c682bdaa1635b3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4289,
+      "sha256": "6a1a4ec117befde62a4477cdae0ea53cba9061ffb4d50eb740d473e0e9674899"
+    }
+  ]
+}

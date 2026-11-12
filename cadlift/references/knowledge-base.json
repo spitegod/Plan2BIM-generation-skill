@@ -1,0 +1,21 @@
+{
+  "root": "references/pvc-roof-knowledge",
+  "index": "Результат анализа/Указатель базы.txt",
+  "cards": "Результат анализа/Карточки",
+  "common": "Результат анализа/Общие положения и расхождения.txt",
+  "corners": "Результат анализа/Правила усиления углов.txt",
+  "atlas": "Результат анализа/Фотоэтапы/Атлас фотоэтапов.html",
+  "observations": "Результат анализа/Фотоэтапы/Наблюдения по фотоэтапам.txt",
+  "pdfs": [
+    "Документы для обучения\\Инструкция по монтажу однослойной кровли из полимерной мембраны.pdf",
+    "Документы для обучения\\Руководство по проектированию и устройству кровель из полимерных мембран ТЕХНОНИКОЛЬ.pdf"
+  ],
+  "archive": "8. Узлы 3D.rar",
+  "archive_sha256": "dadae8c92e7c8f2b5be6e32d72dc48231dc5f02ea725951ced8810b97d443190",
+  "connected": "2026-11-10",
+  "path_base": "skill_directory_containing_SKILL.md",
+  "packaging": "Knowledge, photographs and source PDFs bundled; no external knowledge directory required",
+  "archive_path": "references/source-archives/8. Узлы 3D.rar",
+  "archive_file_count": 509,
+  "source_prompt": "references/source-documents/Промпт.docx"
+}
